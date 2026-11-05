@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Sets up the "alternative config" mentioned here https://github.com/archtechx/tenancy/issues/1260#issuecomment-2572951587
 

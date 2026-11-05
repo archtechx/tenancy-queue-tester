@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 TENANCY_VERSION=${TENANCY_VERSION:-"dev-master"}
 
